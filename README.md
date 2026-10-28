@@ -28,4 +28,3 @@ Want a demo, an architecture walkthrough, or read-only access to a codebase unde
 ## Get in touch
 
 - Website: [punitthakker.com](https://punitthakker.com)
-- LinkedIn: add your link here
